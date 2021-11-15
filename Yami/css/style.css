@@ -4,13 +4,13 @@
 }
 
 body{
-    background-color:silver !important;
+    background-color:rgb(36, 231, 182) !important;
 }
 
 
 .titulo{
     width: 100%;
-     background-color: mediumturquoise;
+     background-color: rgb(6, 116, 180);
     padding-bottom: 100px;
     height: 110px;
     display: flex;
